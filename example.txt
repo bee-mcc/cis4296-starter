@@ -1,0 +1,6 @@
+Hello
+
+New line
+
+git is gfun
+not
